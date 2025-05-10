@@ -157,7 +157,9 @@ int main(int argc, char *argv[]) {
 
 ![output ss](img/exreadlock.png)
 
+![output ss](img/eswritelock.png)
 
+![output ss](img/lslock3.png)
 
 # RESULT:
 The programs are executed successfully.
